@@ -4,6 +4,7 @@
 
 #### Go
 
+- [jupiter](https://gitee.com/frank2020/jupiter)
 - [go-zero](https://gitee.com/frank2020/go-zero)
 - [goim](https://gitee.com/frank2020/goim)
 - [groupcache](https://gitee.com/frank2020/groupcache)
